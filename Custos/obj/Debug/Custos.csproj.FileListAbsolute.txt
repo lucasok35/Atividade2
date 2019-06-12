@@ -1,0 +1,6 @@
+C:\Users\Dante\source\repos\Atividade2\Custos\bin\Debug\Custos.exe.config
+C:\Users\Dante\source\repos\Atividade2\Custos\bin\Debug\Custos.exe
+C:\Users\Dante\source\repos\Atividade2\Custos\bin\Debug\Custos.pdb
+C:\Users\Dante\source\repos\Atividade2\Custos\obj\Debug\Custos.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\Atividade2\Custos\obj\Debug\Custos.exe
+C:\Users\Dante\source\repos\Atividade2\Custos\obj\Debug\Custos.pdb

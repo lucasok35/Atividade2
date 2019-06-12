@@ -1,0 +1,10 @@
+C:\Users\Dante\source\repos\Atividade2\ProjAvaliacao\bin\Debug\ProjAvaliacao.exe.config
+C:\Users\Dante\source\repos\Atividade2\ProjAvaliacao\bin\Debug\ProjAvaliacao.exe
+C:\Users\Dante\source\repos\Atividade2\ProjAvaliacao\bin\Debug\ProjAvaliacao.pdb
+C:\Users\Dante\source\repos\Atividade2\ProjAvaliacao\obj\Debug\ProjAvaliacao.csprojAssemblyReference.cache
+C:\Users\Dante\source\repos\Atividade2\ProjAvaliacao\obj\Debug\ProjAvaliacao.Form1.resources
+C:\Users\Dante\source\repos\Atividade2\ProjAvaliacao\obj\Debug\ProjAvaliacao.Properties.Resources.resources
+C:\Users\Dante\source\repos\Atividade2\ProjAvaliacao\obj\Debug\ProjAvaliacao.csproj.GenerateResource.cache
+C:\Users\Dante\source\repos\Atividade2\ProjAvaliacao\obj\Debug\ProjAvaliacao.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\Atividade2\ProjAvaliacao\obj\Debug\ProjAvaliacao.exe
+C:\Users\Dante\source\repos\Atividade2\ProjAvaliacao\obj\Debug\ProjAvaliacao.pdb

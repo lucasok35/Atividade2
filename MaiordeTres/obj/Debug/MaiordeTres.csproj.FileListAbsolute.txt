@@ -1,0 +1,7 @@
+C:\Users\Dante\source\repos\Atividade2\MaiordeTres\bin\Debug\MaiordeTres.exe.config
+C:\Users\Dante\source\repos\Atividade2\MaiordeTres\bin\Debug\MaiordeTres.exe
+C:\Users\Dante\source\repos\Atividade2\MaiordeTres\bin\Debug\MaiordeTres.pdb
+C:\Users\Dante\source\repos\Atividade2\MaiordeTres\obj\Debug\MaiordeTres.csprojAssemblyReference.cache
+C:\Users\Dante\source\repos\Atividade2\MaiordeTres\obj\Debug\MaiordeTres.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\Atividade2\MaiordeTres\obj\Debug\MaiordeTres.exe
+C:\Users\Dante\source\repos\Atividade2\MaiordeTres\obj\Debug\MaiordeTres.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dante\source\repos\Atividade2\VetorDinamico\bin\Debug\VetorDinamico.exe.config
+C:\Users\Dante\source\repos\Atividade2\VetorDinamico\bin\Debug\VetorDinamico.exe
+C:\Users\Dante\source\repos\Atividade2\VetorDinamico\bin\Debug\VetorDinamico.pdb
+C:\Users\Dante\source\repos\Atividade2\VetorDinamico\obj\Debug\VetorDinamico.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\Atividade2\VetorDinamico\obj\Debug\VetorDinamico.exe
+C:\Users\Dante\source\repos\Atividade2\VetorDinamico\obj\Debug\VetorDinamico.pdb

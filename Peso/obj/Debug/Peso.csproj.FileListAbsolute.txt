@@ -1,0 +1,7 @@
+C:\Users\Dante\source\repos\Atividade2\Peso\bin\Debug\Peso.exe.config
+C:\Users\Dante\source\repos\Atividade2\Peso\bin\Debug\Peso.exe
+C:\Users\Dante\source\repos\Atividade2\Peso\bin\Debug\Peso.pdb
+C:\Users\Dante\source\repos\Atividade2\Peso\obj\Debug\Peso.csprojAssemblyReference.cache
+C:\Users\Dante\source\repos\Atividade2\Peso\obj\Debug\Peso.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\Atividade2\Peso\obj\Debug\Peso.exe
+C:\Users\Dante\source\repos\Atividade2\Peso\obj\Debug\Peso.pdb

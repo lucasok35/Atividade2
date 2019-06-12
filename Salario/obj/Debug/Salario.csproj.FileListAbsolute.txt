@@ -1,0 +1,7 @@
+C:\Users\Dante\source\repos\Atividade2\Salario\bin\Debug\Salario.exe.config
+C:\Users\Dante\source\repos\Atividade2\Salario\bin\Debug\Salario.exe
+C:\Users\Dante\source\repos\Atividade2\Salario\bin\Debug\Salario.pdb
+C:\Users\Dante\source\repos\Atividade2\Salario\obj\Debug\Salario.csprojAssemblyReference.cache
+C:\Users\Dante\source\repos\Atividade2\Salario\obj\Debug\Salario.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\Atividade2\Salario\obj\Debug\Salario.exe
+C:\Users\Dante\source\repos\Atividade2\Salario\obj\Debug\Salario.pdb

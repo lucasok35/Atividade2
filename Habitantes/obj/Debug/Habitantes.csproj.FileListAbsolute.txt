@@ -1,0 +1,7 @@
+C:\Users\Dante\source\repos\Atividade2\Habitantes\bin\Debug\Habitantes.exe.config
+C:\Users\Dante\source\repos\Atividade2\Habitantes\bin\Debug\Habitantes.exe
+C:\Users\Dante\source\repos\Atividade2\Habitantes\bin\Debug\Habitantes.pdb
+C:\Users\Dante\source\repos\Atividade2\Habitantes\obj\Debug\Habitantes.csprojAssemblyReference.cache
+C:\Users\Dante\source\repos\Atividade2\Habitantes\obj\Debug\Habitantes.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\Atividade2\Habitantes\obj\Debug\Habitantes.exe
+C:\Users\Dante\source\repos\Atividade2\Habitantes\obj\Debug\Habitantes.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dante\source\repos\Atividade2\Media\bin\Debug\Media.exe.config
+C:\Users\Dante\source\repos\Atividade2\Media\bin\Debug\Media.exe
+C:\Users\Dante\source\repos\Atividade2\Media\bin\Debug\Media.pdb
+C:\Users\Dante\source\repos\Atividade2\Media\obj\Debug\Media.csprojAssemblyReference.cache
+C:\Users\Dante\source\repos\Atividade2\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\Atividade2\Media\obj\Debug\Media.exe
+C:\Users\Dante\source\repos\Atividade2\Media\obj\Debug\Media.pdb

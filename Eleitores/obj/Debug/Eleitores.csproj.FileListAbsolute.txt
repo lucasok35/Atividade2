@@ -1,0 +1,7 @@
+C:\Users\Dante\source\repos\Atividade2\Eleitores\bin\Debug\Eleitores.exe.config
+C:\Users\Dante\source\repos\Atividade2\Eleitores\bin\Debug\Eleitores.exe
+C:\Users\Dante\source\repos\Atividade2\Eleitores\bin\Debug\Eleitores.pdb
+C:\Users\Dante\source\repos\Atividade2\Eleitores\obj\Debug\Eleitores.csprojAssemblyReference.cache
+C:\Users\Dante\source\repos\Atividade2\Eleitores\obj\Debug\Eleitores.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\Atividade2\Eleitores\obj\Debug\Eleitores.exe
+C:\Users\Dante\source\repos\Atividade2\Eleitores\obj\Debug\Eleitores.pdb

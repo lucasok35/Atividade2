@@ -1,0 +1,7 @@
+C:\Users\Dante\source\repos\Atividade2\MediaInteiros\bin\Debug\MediaInteiros.exe.config
+C:\Users\Dante\source\repos\Atividade2\MediaInteiros\bin\Debug\MediaInteiros.exe
+C:\Users\Dante\source\repos\Atividade2\MediaInteiros\bin\Debug\MediaInteiros.pdb
+C:\Users\Dante\source\repos\Atividade2\MediaInteiros\obj\Debug\MediaInteiros.csprojAssemblyReference.cache
+C:\Users\Dante\source\repos\Atividade2\MediaInteiros\obj\Debug\MediaInteiros.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\Atividade2\MediaInteiros\obj\Debug\MediaInteiros.exe
+C:\Users\Dante\source\repos\Atividade2\MediaInteiros\obj\Debug\MediaInteiros.pdb

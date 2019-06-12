@@ -1,0 +1,7 @@
+C:\Users\Dante\source\repos\Atividade2\Revendedora\bin\Debug\Revendedora.exe.config
+C:\Users\Dante\source\repos\Atividade2\Revendedora\bin\Debug\Revendedora.exe
+C:\Users\Dante\source\repos\Atividade2\Revendedora\bin\Debug\Revendedora.pdb
+C:\Users\Dante\source\repos\Atividade2\Revendedora\obj\Debug\Revendedora.csprojAssemblyReference.cache
+C:\Users\Dante\source\repos\Atividade2\Revendedora\obj\Debug\Revendedora.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\Atividade2\Revendedora\obj\Debug\Revendedora.exe
+C:\Users\Dante\source\repos\Atividade2\Revendedora\obj\Debug\Revendedora.pdb
